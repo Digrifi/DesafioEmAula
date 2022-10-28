@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+header
+{
+    background-color: rgb(70, 2, 2);
+}
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
